@@ -11,7 +11,7 @@
 🌱 Always learning and exploring new technologies
 ```
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=agusydk3&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
 </div>
 
@@ -19,7 +19,7 @@
 
 ## 💻 Tech Stack
 
-<div align="center">
+<div align="left">
   
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -54,12 +54,12 @@
 
 ## 📊 GitHub Analytics
 
-<div align="center">
+<div align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=agusydk3&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agusydk3&theme=tokyonight&hide_border=true&layout=compact&langs_count=8"/>
 </div>
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=agusydk3&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
@@ -68,7 +68,7 @@
 
 ## 🤝 Let's Connect
 
-<div align="center">
+<div align="left">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
@@ -78,11 +78,11 @@
 
 ---
 
-<div align="center">
+<div align="left">
   <img src="https://komarev.com/ghpvc/?username=agusydk3&style=for-the-badge&color=brightgreen" alt="Profile Views" />
 </div>
 
-<div align="center">
+<div align="left">
   
 **⭐ Thanks for visiting my profile! Don't forget to star my repositories if you find them useful! ⭐**
 
