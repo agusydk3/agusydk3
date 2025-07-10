@@ -63,10 +63,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=agusydk3&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=agusydk3&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
-</div>
-
 
 ---
 
