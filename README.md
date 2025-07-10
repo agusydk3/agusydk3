@@ -6,7 +6,7 @@
 
 ```
 🚀 Ordinary Human
-🔧 Enthusiast: Web Development, REST API, Cloud Integration, dan Automation
+🔧 Enthusiast: Web Development, REST API, dan Automation
 💡 Passionate about creating scalable solutions and clean code
 🌱 Always learning and exploring new technologies
 ```
